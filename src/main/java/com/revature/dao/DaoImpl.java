@@ -33,9 +33,9 @@ public class DaoImpl implements Dao{
 	}
 	
 	
-	private static final String USERNAME = "ERS_DB";
+	private static final String USERNAME = "AWS_BANK_DB";
 	private static final String PASSWORD = "p4ssw0rd";
-	private static final String URL = "jdbc:oracle:thin:@localhost:1521:xe";
+	private static final String URL = "jdbc:oracle:thin:@anaximander11.cfwfoelqq77b.us-east-1.rds.amazonaws.com:1521:orcl";
 	
 	
 	@Override
