@@ -1,0 +1,203 @@
+body {
+	font-family: 'Special Elite', cursive;
+	background-color: black;
+}
+
+h1 {
+	margin: 20px;
+}
+
+table {
+	color: white;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	padding-right: 10px;
+}
+
+.company-name {
+	font-size: 28px;
+}
+
+.home-nav {
+	margin-bottom: 0;
+}
+
+.slogan {
+	margin-left: 40px;
+}
+
+.btn {
+	border: crimson;
+	background: crimson;
+}
+
+.white {
+	color: white !important;
+}
+
+.black {
+	background: black;
+}
+
+.navbar-toggler {
+	background: white;
+	margin: 30px;
+}
+
+.to-red {}
+
+.to-red:hover {
+	color: crimson !important;
+	font-size: 16px;
+}
+
+.container {
+	font-family: 'Special Elite', cursive;	
+}
+
+.jumbotron {
+	margin-top: 10px;
+}
+
+.logo {
+	width: 60px;
+}
+
+.company-name {
+	margin-top: 20px;
+	font-size: 40px;
+	color: white;
+}
+
+.Welcome {
+	font-weight: 900;
+}
+
+.welcome-tron {
+	background: crimson;
+	opacity: 0.85;
+	border-radius: 25px;
+}
+
+.index-jumbo {
+	color: white;
+	background: crimson;
+	text-align: center;
+}
+
+.login-button-container {
+	text-align: center;
+}
+
+.login-button {
+	background: black;
+}
+
+.button-container {
+	text-align: center;
+}
+
+.login-submit {
+	background: crimson;
+    border: crimson;
+}
+
+.logo-brand {
+	width: 80px;
+}
+
+.login-form {
+	margin: auto;
+	margin-top: 20px;
+	width: 50%;
+}
+
+.login-header {
+	text-align: center;
+}
+
+.goodbye {
+	margin-top: 15%;
+	text-align: center;
+}
+
+.welcome {
+	margin-top: 15%;
+	text-align: center;
+}
+
+.nav-link {
+	font-size: 14px;
+}
+
+.nav-link-logout {
+	font-size: larger;
+}
+
+.resolve-form {
+	text-align: center;
+}
+
+.resolve-button {
+	margin: 15px;
+}
+
+.info-data {
+	text-align: left;
+}
+
+.user-form {
+	width: 75%;
+	margin: auto;
+}
+
+.file-upload {
+	text-align: center;
+	margin-top: 100px;
+}
+
+.receipt {
+	max-width: 70%;
+	margin-top: 25px;
+}
+
+.back {
+	margin-top: 20px;
+}
+
+.receipt-container {
+	text-align: center;
+}
+
+.reset-form {
+	text-align: center;
+}
+
+.resolve-form {
+	border: solid white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.info-name {
+	text-align:left;
+}
+
+.boo {}
+
+.boo:hover {
+	background-image: url("static/img/boo.jpg");
+}
+
+#r_id{
+	display: none;
+}
+
+#mainview {
+	text-align: center;
+}

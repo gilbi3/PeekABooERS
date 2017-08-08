@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<div id="requestForm">
+	<h1 class="white">Need a reimbursement?</h1>
+	<form method="POST" action="submit-request" class="user-form">
+		<div class="form-group">
+			<label class="white">Select Type:</label>
+				<select name="type" class="form-control" id="type-select">
+					<option value="1">Food</option>
+				    <option value="2">Lodging</option>
+				    <option value="3">Mental Health</option>
+				    <option value="4">Injury</option>
+				    <option value="5">Pants</option>
+				    <option value="6">Batteries</option>
+				    <option value="7">Travel</option>
+				 </select>
+			<label class="col-2 col-form-label white">Amount</label>
+				<input name="amount" class="form-control" value="0.00" id="amount-input">
+			<label class="white">Description</label>
+    			<textarea name="description" class="form-control" id="exampleTextarea" rows="3"></textarea>
+			</div>
+				<button id="requestform-submit" type="submit" class="btn btn-primary">Submit</button>
+	</form>
+</div>	
